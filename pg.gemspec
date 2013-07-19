@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = ["headius@headius.com", "jvshahid@gmail.com"]
   s.executables = ["pg"]
   s.extra_rdoc_files = ["CHANGELOG.rdoc", "Manifest.txt", "README.rdoc"]
-  s.files = ["CHANGELOG.rdoc", "Manifest.txt", "README.rdoc", "Rakefile", "bin/pg", "lib/pg.rb", "lib/pg/result.rb", "lib/pg/constants.rb", "lib/pg/connection.rb", "lib/pg/exceptions.rb", "lib/pg_ext.jar", ".gemtest"]
+  s.files = ["CHANGELOG.rdoc", "Manifest.txt", "README.rdoc", "Rakefile", "bin/pg", "lib/pg.rb", "lib/pg/result.rb", "lib/pg/constants.rb", "lib/pg/connection.rb", "lib/pg/exceptions.rb"]
   s.homepage = "https://github.com/headius/jruby-pg"
   s.rdoc_options = ["--main", "README.rdoc"]
   s.require_paths = ["lib"]
